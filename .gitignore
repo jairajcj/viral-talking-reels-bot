@@ -1,0 +1,21 @@
+# Environment variables
+config.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local assets and outputs
+assets/
+*.mp4
+*.jpg
+*.mp3
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+desktop.ini

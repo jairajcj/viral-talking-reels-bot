@@ -1,0 +1,9 @@
+google-generativeai
+moviepy
+edge-tts
+instagrapi
+pillow
+requests
+screeninfo
+undetected-chromedriver
+selenium
