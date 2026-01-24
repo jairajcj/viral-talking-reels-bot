@@ -1,5 +1,4 @@
 # Viral Reel Bot 🤖🎬
-# Viral Reel Bot 🤖🎬
 
 
 This tool automates the process of creating "Viral" Instagram Reels using AI.
