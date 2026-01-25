@@ -1,0 +1,8 @@
+selenium_user_data/
+user_data/
+*.png
+error_log.txt
+__pycache__/
+*.pyc
+.env
+.DS_Store
