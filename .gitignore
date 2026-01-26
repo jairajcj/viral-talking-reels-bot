@@ -1,8 +1,32 @@
+# Selenium and user data
 selenium_user_data/
 user_data/
-*.png
-error_log.txt
+.gemini/
+
+# Python artifacts
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Generated assets and logs
+assets/
+*.png
+*.jpg
+*.mp4
+*.mp3
+error_log.txt
+debug_before_find.png
+flow_error.png
+flow_final_error.png
+
+# Configuration
+config.py
 .env
+
+# IDE and OS files
+.vscode/
+.idea/
 .DS_Store
+Thumbs.db
+desktop.ini

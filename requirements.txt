@@ -1,3 +1,10 @@
 selenium
 webdriver_manager
 requests
+google-generativeai
+moviepy
+edge-tts
+instagrapi
+pillow
+screeninfo
+undetected-chromedriver
