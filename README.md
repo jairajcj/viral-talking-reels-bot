@@ -1,4 +1,3 @@
-# AI Reel Maker: Viral Content Automation
 
 This project automates the creation of viral "talking object" reels for Instagram. It finds trending topics, generates AI images of expressive objects, and automates the video generation process on platforms like Google Flow (Labs).
 
